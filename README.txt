@@ -39,4 +39,12 @@ Command Line Arguments:
     -c                  Specifies configuration file [-c file].
     --make-defalut-lay  Creates the default lay file for this program (Recommended if missing or overwritten).
     -h                  Displays a help message
+
 ----------------------------------------------------------------------------------------------------
+
+Compile From Source:
+    pyinstaller -F ./mame_bezel_generator.py -i ./anyicon.ico
+
+Compile From Source With UAC For Elevated Privilege:
+    pyinstaller --uac-admin -F ./mame_bezel_generator.py -i ./anyicon.ico
+
