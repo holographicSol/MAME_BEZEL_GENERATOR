@@ -42,6 +42,9 @@ Command Line Arguments:
 
 ----------------------------------------------------------------------------------------------------
 
+Python Version: 3.9.7
+Built On Operating System: Windows 10
+
 Compile From Source:
     pyinstaller -F ./mame_bezel_generator.py -i ./anyicon.ico
 
