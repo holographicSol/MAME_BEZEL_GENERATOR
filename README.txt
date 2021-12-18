@@ -48,3 +48,6 @@ Compile From Source:
 Compile From Source With UAC For Elevated Privilege:
     pyinstaller --uac-admin -F ./mame_bezel_generator.py -i ./anyicon.ico
 
+Or Run mame_bezel_generator.exe:
+    mame_bezel_generator.exe -h
+
