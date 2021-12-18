@@ -1,0 +1,5 @@
+LAY: D:\EXAMPLE\theme_colorful_mame\default.lay
+IMG: D:\EXAMPLE\theme_colorful_mame\mame_bezel_generator.png
+DIR_ART: D:\EXAMPLE\Programs\MAME\artwork
+DIR_BIOS: D:\EXAMPLE\Archives\MAME\BIOS_v0.237\MAME (bios-devices)\MAME (bios-devices)
+DIR_ROM: D:\EXAMPLE\Programs\MAME\roms
